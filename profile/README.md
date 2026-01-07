@@ -14,8 +14,6 @@
 </div>
 </div>
 
----
-
 ## Installation
 
 1. Go to the official page via the button above.  
